@@ -1,0 +1,5 @@
+ticket_id,name,email,issue_type,priority,description,timestamp
+101,Rahul,rahul@dotmappers.com,wifi,High,No internet,2025-10-12 09:00:00
+,Sarah,sarah.j@gmail.com,login,Medium,Forgot password,2025-10-12 09:15:00
+102,Rahul,rahul@dotmappers.com,wifi,High,Still no internet,2025-10-12 10:00:00
+103,Amit,bad_email_format,hardware,Low,Mouse broken,2025-10-12 11:00:00

@@ -1,0 +1,3 @@
+ticket_id,name,email,issue_type,priority,assigned_department,sla_deadline,description
+101.0,Rahul,rahul@dotmappers.com,wifi,High,Network,2025-10-12 13:00:00,No internet
+d1d06608,Sarah,sarah.j@gmail.com,login,Medium,IT Support,2025-10-13 09:15:00,Forgot password

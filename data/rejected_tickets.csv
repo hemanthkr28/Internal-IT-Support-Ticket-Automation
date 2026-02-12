@@ -1,0 +1,3 @@
+ticket_id,name,email,issue_type,priority,description,timestamp,error
+102.0,Rahul,rahul@dotmappers.com,wifi,High,Still no internet,2025-10-12 10:00:00,Duplicate ticket within 24 hours
+103.0,Amit,bad_email_format,hardware,Low,Mouse broken,2025-10-12 11:00:00,Invalid email format
